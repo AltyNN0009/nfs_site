@@ -1,0 +1,41 @@
+body{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+ul  {
+display: flex;
+list-style: none ;
+}
+
+li{
+margin-right: 30px;
+
+}
+section{
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+img {
+    width: 460px;
+}
+header{
+margin: 0 auto;
+max-width: 400px;
+border-bottom: 1px solid black;
+}
+footer{
+    margin: 0 auto;
+    max-width: 400px;
+    border-top: 1px solid black;
+}
+h2{
+    border-bottom: 1px solid black;
+}
+a{
+    color:rgb(255, 0, 242);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(0, 4, 255);
+}
